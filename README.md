@@ -1,2 +1,2 @@
-# WEB
-- Lập trình web cho game
+# Personal Blog
+**Đóng mạng nhện các thứ**
