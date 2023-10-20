@@ -1,1 +1,1 @@
-alert("Chào cậu nhé")
+// alert("Chào cậu nhé")
