@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 100%;
+    max-height: 100% ;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+li.completed {
+    background-color: #d9edf7;
+    color: #31708f;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
